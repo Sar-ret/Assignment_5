@@ -1,0 +1,13 @@
+{
+    "name": "public",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "5.14.0",
+        "bootstrap": "4.0.0",
+        "jquery": "3.5.1"
+    }
+}
